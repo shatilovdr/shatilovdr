@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello, folks! <img src="https://github.com/shatilovdr/shatilovdr/blob/main/wave.gif?raw=true" width="30px" height="30px" />
 
-<!--
-**shatilovdr/shatilovdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Dmitrii Shatilov, I currently live in Helsinki and am studying in [Hive Helsinki][1.1]([Ecole 42][1.2]). You can find me on [LinkedIn][3.2].
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- links to social media -->
+
+[1.1]: https://www.hive.fi/en/ (Hive Helsinki site)
+[1.2]: https://www.42network.org (42 network site)
+
+<!-- links to my social media accounts -->
+
+[3.1]: https://github.com/shatilovdr
+[3.2]: https://www.linkedin.com/in/shatilovdr/
+[3.3]: https://t.me/shatilovdr
