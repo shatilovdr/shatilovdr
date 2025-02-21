@@ -14,6 +14,7 @@ You can find me on [LinkedIn][2.2] or reach out with email shatilovdr@gmail.com.
 
 ![GitHub Stats][4.1]
 ![Top Langs][4.2]
+![LeetCode Stats][4.3]
 
 <!-- links to social media -->
 
@@ -40,3 +41,4 @@ You can find me on [LinkedIn][2.2] or reach out with email shatilovdr@gmail.com.
 
 [4.1]: https://github-readme-stats.vercel.app/api?username=shatilovdr&theme=catppuccin_mocha (GitHub Stats)
 [4.2]: https://github-readme-stats.vercel.app/api/top-langs/?username=shatilovdr&layout=compact&count_private=fals&theme=catppuccin_mocha (GitHub Stats)
+[4.3]: https://leetcard.jacoblin.cool/shatilovdr?theme=transparent&font=Moul&ext=heatmap (LeetCode Stats)
